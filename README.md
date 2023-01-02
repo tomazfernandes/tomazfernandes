@@ -2,9 +2,6 @@
 
 I'm a `Software Engineer` and `Open Source Contributor` from Rio de Janeiro.
 
-Having been on an OSS sabbatical period since January, I'm now open for work and looking for SWE positions to work remotely from Brazil.
-Do get in touch if you're interested in having me join your team!
-
 <a href="https://twitter.com/tomazfernandes_">
   <img style="margin-left:30px" alt="Tomaz Fernandes | Twitter" width="25px" src="assets/twitter.svg" />
 </a>
