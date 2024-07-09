@@ -15,15 +15,14 @@ I'm a `Software Engineer` and `Open Source Contributor` from Rio de Janeiro.
 
 Here's some of what I've had the opportunity of contributing so far.
 
-### 🍃 Spring Cloud AWS
+### 🍃 Spring Cloud AWS SQS Lead and Maintainer
 
 ```java
 String projectName = "Spring Cloud AWS";
 String projectDescription = "The project aims to simplify " 
         + "integrating Spring applications with AWS services.";
 String myContribution = "I've had the opportunity to rewrite "
-        + "the SQS integration from the ground up, based on my experience "
-        + "of being a Spring Kafka contributor for about two years.";
+        + "the SQS integration from the ground up. Now I'm the SQS Lead and project maintainer. ";
 Integer linesOfCodeAndDocsCommited = 30_000; 
 ```
 > @see <a href="https://docs.awspring.io/spring-cloud-aws/docs/3.0.0-M2/reference/html/index.html#sqs-support">Spring Cloud AWS SQS Integration Documentation 📚</a>
