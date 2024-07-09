@@ -31,6 +31,29 @@ Integer linesOfCodeAndDocsCommited = 30_000;
 </a>
 
 
+### 🍃 Spring for Apache Kafka
+
+```java
+String projectName = "Spring for Apache Kafka";
+String projectDescription = "The project brings familiar Spring " 
+        + " abstractions to Apache Kafka.";
+String myContribution = "I've had the opportunity to contribute the "
+        + NonBlockingDelayedRetries.class + " feature.";
+Integer linesOfCodeAndDocsCommited = 20_000; 
+```
+
+> @see <a href="https://docs.awspring.io/spring-cloud-aws/docs/3.0.0-M2/reference/html/index.html#sqs-support">Spring Kafka Documentation for the Non-Blocking Retries feature 📚</a>
+
+I've worked closely with the project's team on this feature, interacting with users on `Github Issues` and `Stack Overflow`, reviewing feature-related PRs, adding new functionalities, and so on.
+
+
+<a href="https://docs.spring.io/spring-kafka/reference/html/">
+  <img alt="Spring Kafka documentation" width="500px" src="assets/spring-kafka-cover.png" />
+</a>
+
+<br />
+
+
 ### Apache Pulsar Messaging Framework
 ### Parallel Kafka Consumer Messaging Framework
 
@@ -78,27 +101,6 @@ Check the app repo out and perform some tests of your own!
 
 <br />
 
-### 🍃 Spring for Apache Kafka
-
-```java
-String projectName = "Spring for Apache Kafka";
-String projectDescription = "The project brings familiar Spring " 
-        + " abstractions to Apache Kafka.";
-String myContribution = "I've had the opportunity to contribute the "
-        + NonBlockingDelayedRetries.class + " feature.";
-Integer linesOfCodeAndDocsCommited = 20_000; 
-```
-
-> @see <a href="https://docs.awspring.io/spring-cloud-aws/docs/3.0.0-M2/reference/html/index.html#sqs-support">Spring Kafka Documentation for the Non-Blocking Retries feature 📚</a>
-
-I've worked closely with the project's team on this feature, interacting with users on `Github Issues` and `Stack Overflow`, reviewing feature-related PRs, adding new functionalities, and so on.
-
-
-<a href="https://docs.spring.io/spring-kafka/reference/html/">
-  <img alt="Spring Kafka documentation" width="500px" src="assets/spring-kafka-cover.png" />
-</a>
-
-<br />
 
 ### 🍃 Stack Overflow
 
