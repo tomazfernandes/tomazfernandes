@@ -27,9 +27,6 @@ Integer linesOfCodeAndDocsCommited = 30_000;
 ```
 > @see <a href="https://docs.awspring.io/spring-cloud-aws/docs/3.0.0-M2/reference/html/index.html#sqs-support">Spring Cloud AWS SQS Integration Documentation 📚</a>
 
-
-The team is doing a great job in reimagining the integrations - try the latest version out and provide feedback!
-
 <a align="center" href="https://github.com/awspring/spring-cloud-aws" title="Spring Cloud AWS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=awspring&repo=spring-cloud-aws&theme=city_lights">
 </a>
 
