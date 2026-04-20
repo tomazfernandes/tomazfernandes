@@ -7,7 +7,7 @@ Software Engineer based in Rio de Janeiro, Brazil. 10+ years building backend an
 - ✍️ I write about distributed systems, messaging, and production-safe engineering at **[tomazfernandes.dev](https://tomazfernandes.dev/)**
 - 📚 Author of Spring Cloud AWS articles on [Baeldung](https://www.baeldung.com/author/tomazfernandes)
 
-**[Blog](https://tomazfernandes.dev/)** · **[LinkedIn](https://www.linkedin.com/in/tomaz-fernandes/)** · **[X](https://x.com/tomazfernandes_)** · **[Stack Overflow](https://stackoverflow.com/users/3692447/tomaz-fernandes)**
+[![Blog](https://img.shields.io/badge/Blog-tomazfernandes.dev-111?style=flat-square&logo=rss&logoColor=white)](https://tomazfernandes.dev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomaz-fernandes/) [![X](https://img.shields.io/badge/X-111?style=flat-square&logo=x&logoColor=white)](https://x.com/tomazfernandes_) [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/3692447/tomaz-fernandes)
 
 ---
 
